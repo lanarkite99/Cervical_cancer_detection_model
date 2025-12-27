@@ -417,9 +417,11 @@ The model shows strong performance across all cell types with minimal confusion 
 - Emphasis on professional review
 - Guidelines for follow-up actions
 
-### Screenshot
+### Streamlit Application 
+Available on Streamlit: [Click here](https://cervical-cancer-detection.streamlit.app/)
 
-![Streamlit App Interface](D:\Cervical_cancer\Capture.PNG)
+### Screenshot
+![Streamlit App Interface](Capture.PNG)
 
 ### Deployment
 
